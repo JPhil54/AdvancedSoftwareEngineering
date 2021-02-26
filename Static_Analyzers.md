@@ -1,4 +1,4 @@
-﻿# Static Analyzers
+# Static Analyzers
  This research project will focus on 3 free open source static analyzers for C++: Cppcheck, 
 Clang, Source Trail. This page is for a little information on each of these analyzers. 
 
