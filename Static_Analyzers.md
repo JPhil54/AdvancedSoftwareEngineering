@@ -29,3 +29,4 @@ Clang is also a static analyzer for bugs in C++ typically found during runtime b
 * [Usage](https://clang-analyzer.llvm.org/scan-build.html#scanbuild_basicusage)
 
 ### Source Trail
+* [Documentation](https://www.sourcetrail.com/documentation/)
