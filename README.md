@@ -3,4 +3,5 @@
  
  ## Table of Contents
 1. [Project Proposal](https://github.com/JPhil54/AdvancedSoftwareEngineering/blob/main/Project%20Proposal.pdf) 
-2. [Project Report(incomplete)](Project Report)
+2. [Project Report(incomplete)](https://github.com/JPhil54/AdvancedSoftwareEngineering/blob/main/Project%20Report)
+3. [Milestone 1](link)
