@@ -21,3 +21,11 @@ Cppcheck claims
     * Uninitialized variables
     * Writing const data
 * see full documentation for [Cppcheck](http://cppcheck.sourceforge.net/)
+
+### Clang
+Clang is also a static analyzer for bugs in C++ typically found during runtime by analyzing source code
+* although popular, documentation claims to be a work in progress
+* [Documentation](https://clang-analyzer.llvm.org/scan-build.html)
+* [Usage](https://clang-analyzer.llvm.org/scan-build.html#scanbuild_basicusage)
+
+### Source Trail
